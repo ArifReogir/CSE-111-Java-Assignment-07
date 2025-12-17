@@ -1,0 +1,30 @@
+Total CSE Students: 0
+Available Lab Based Courses: 
+CSE110 CSE111 CSE220 CSE221 
+1--------------
+Name: Bob
+ID: 23
+Courses: 
+2--------------
+Name: Don
+ID: 33
+Courses: 
+3--------------
+4--------------
+Name: Bob
+ID: 23
+Courses: CSE220 CSE221 
+5--------------
+Total CSE Students: 2
+Available Lab Based Courses: 
+CSE110 CSE111 CSE220 CSE221 
+6--------------
+It is not a lab based course!
+7--------------
+Name: Bob
+ID: 23
+Courses: CSE220 CSE221 
+8--------------
+Name: Don
+ID: 33
+Courses: CSE110 
